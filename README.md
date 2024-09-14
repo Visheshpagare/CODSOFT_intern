@@ -1,1 +1,1 @@
-# CODSOFT_intern
+I This repository contains a simple Tic Tac Toe game built using C++. The game features a 2-player mode with a command-line interface, allowing users to play the classic game while handling win conditions, draws, and invalid moves efficiently. A great project for exploring game logic and basic C++ concepts.
